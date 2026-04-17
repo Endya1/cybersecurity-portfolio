@@ -8,7 +8,7 @@ Cybersecurity fundamentals
 Risk assessment and analysis
 Governance, Risk, and Compliance (GRC)
 Security controls and policy development
-AI governance and risk awareness
+AI governance and risk awareness.
 
 Certification:
 CompTIA Security+ (SY0-701)
