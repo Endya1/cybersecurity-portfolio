@@ -1,39 +1,86 @@
-Cybersecurity Portfolio:
-I am building practical skills in cybersecurity with a focus on risk management, governance, and real-world security practices.
+# Endya Richardson | Cybersecurity & GRC Portfolio
 
-This portfolio documents my progression while further developing the ability to identify, analyze, and mitigate security risks.
+## About Me
+I am building practical cybersecurity skills with a focus on Governance, Risk, and Compliance (GRC), security analysis, and AI governance awareness.
 
-Focus Areas:
-Cybersecurity fundamentals
-Risk assessment and analysis
-Governance, Risk, and Compliance (GRC)
-Security controls and policy development
-AI governance and risk awareness.
+This portfolio documents my progression through hands-on projects, security documentation, and risk-based learning designed to strengthen real-world cybersecurity and compliance skills.
 
-Certification:
-CompTIA Security+ (SY0-701)
+---
 
-Portfolio Projects:
-Projects will be added as they are completed and will demonstrate applied cybersecurity and risk management skills.
+# Focus Areas
+- Governance, Risk, and Compliance (GRC)
+- Risk Assessment and Risk Analysis
+- Security Policies and Controls
+- Identity and Access Management (IAM)
+- Cybersecurity Fundamentals
+- AI Governance and Risk Awareness
+- Security Documentation and Compliance
 
-Planned projects include:
-Personal Risk Assessment
-Home Network Risk Assessment
-Security Controls Implementation
-Security Policy Document
-Risk Register
-AI Risk Assessment
+---
 
-Tools and Learning Resources:
-Professor Messer Security+ SY0-701 course
-Practice exams and structured study methods
-Self-developed study and project system
+# Certification Path
+## Current Certification
+- CompTIA Security+ (SY0-701) — In Progress
 
-Career Direction:
-Cybersecurity
-Governance, Risk, and Compliance (GRC)
-Risk and security analysis
-AI governance
+## Planned Certifications
+- ISACA CRISC
+- IAPP AIGP
 
-Objective:
-To transition into a GRC cybersecurity role by combining certification knowledge with practical, portfolio-based experience and a strong understanding of risk and security frameworks.
+---
+
+# Portfolio Projects
+
+## Completed Projects
+### Security Policy Project
+Created foundational organizational security policies aligned with cybersecurity governance and compliance principles.
+
+Included:
+- Acceptable Use Policy
+- Password Policy
+- MFA Policy
+
+Skills Demonstrated:
+- Policy writing
+- Governance documentation
+- Security best practices
+- Risk reduction strategies
+
+---
+
+## Planned Projects
+- Personal Risk Assessment
+- Home Network Risk Assessment
+- Security Controls Implementation
+- Risk Register Project
+- IAM Access Review
+- Incident Response Documentation
+- AI Risk Assessment
+- NIST AI RMF Mapping Project
+
+---
+
+# Tools and Learning Resources
+- Professor Messer Security+ SY0-701 Course
+- Jason Dion CompTIA Security+ (SY0-701) Complete Course 
+- GitHub
+- Virtual Labs
+- Practice Exams
+- NIST Cybersecurity Framework (CSF)
+- NIST AI Risk Management Framework (AI RMF)
+- CIS Controls
+- ISO 27001 Fundamentals
+
+---
+
+# Career Direction
+I am pursuing opportunities related to:
+- Governance, Risk, and Compliance (GRC)
+- Cybersecurity Risk Analysis
+- Identity and Access Management (IAM)
+- Security Operations Support
+- AI Governance and Risk Management
+
+---
+
+# Objective
+My goal is to transition into a cybersecurity GRC role by combining certification knowledge, academic learning, and practical portfolio-based projects that demonstrate governance, risk, compliance, and security analysis capabilities.
