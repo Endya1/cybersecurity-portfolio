@@ -30,32 +30,58 @@ This portfolio documents my progression through hands-on projects, security docu
 
 # Portfolio Projects
 
-## Completed Projects
-### Security Policy Project
-Created foundational organizational security policies aligned with cybersecurity governance and compliance principles.
+## Projects
 
-Included:
+### Security Policy Project
+Created foundational security policies aligned with governance and compliance principles.
+
 - Acceptable Use Policy
 - Password Policy
 - MFA Policy
 
-Skills Demonstrated:
-- Policy writing
-- Governance documentation
-- Security best practices
-- Risk reduction strategies
+Skills: governance, compliance documentation, security policy development
 
 ---
 
-## Planned Projects
-- Personal Risk Assessment
-- Home Network Risk Assessment
-- Security Controls Implementation
-- Risk Register Project
-- IAM Access Review
-- Incident Response Documentation
+### Risk Assessment Project
+Performed a simulated risk assessment identifying threats, impacts, and mitigation strategies.
+
+- Risk Register
+- Risk Assessment Table
+
+Skills: risk analysis, mitigation planning, GRC fundamentals
+
+---
+
+### IAM Access Review Project
+Conducted a simulated user access review to identify excessive privileges and security risks.
+
+- Access Review Table
+- IAM Findings Report
+
+Skills: identity governance, least privilege, access control analysis
+
+---
+
+### Incident Response Project
+Documented a simulated phishing incident including timeline and response actions.
+
+- Incident Report
+- Incident Timeline
+- Lessons Learned
+
+Skills: incident response documentation, SOC awareness, security reporting
+
+---
+
+### AI Governance Project
+Analyzed AI system risks using the NIST AI Risk Management Framework.
+
 - AI Risk Assessment
-- NIST AI RMF Mapping Project
+- Governance Controls
+- Risk Register
+
+Skills: AI governance, risk management, emerging technology security
 
 ---
 
