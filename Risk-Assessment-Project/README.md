@@ -21,8 +21,7 @@ This assessment evaluates common cybersecurity risks affecting a small business 
 ## Included Files
 - Risk-Assessment-Table.md
 - Risk-Register.md
-- ![Risk Register Dashboard]
-- (Risk_Register_Dashboard.png)
+- ![Risk Register Dashboard](Risk_Register_Dashboard.png)
 
   ## Risk Scoring Methodology
 To ensure objective analysis, this project utilizes a quantitative risk scoring matrix:
