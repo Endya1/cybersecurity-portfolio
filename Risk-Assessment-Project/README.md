@@ -41,7 +41,8 @@ To ensure objective analysis, this project utilizes a quantitative risk scoring 
 ## GRC Strategy & Workflow
 To ensure a structured approach to risk management, I developed this lifecycle diagram. It illustrates the progression from identifying organizational assets to final compliance reporting, aligning with the NIST Cybersecurity Framework.
 
-- ![GRC Workflow Diagram](GRC_Workflow_Diagram.png)
+<img width="211" height="902" alt="GRC_Risk_Workflow_Diagram" src="https://github.com/user-attachments/assets/82838cdd-2276-4406-b2d8-4665feb0500e" />
+
 
 ### Methodology Breakdown
 * **Asset & Threat Identification:** Defining the scope of protection and potential adversaries.
