@@ -35,3 +35,16 @@ To ensure objective analysis, this project utilizes a quantitative risk scoring 
 | **15 - 25** | **HIGH** | Immediate remediation; Escalate to C-Suite. |
 | **10 - 14** | **MEDIUM** | Remediation required within 30-day sprint. |
 | **1 - 9** | **LOW** | Accept risk; Review annually. |
+
+---
+
+## GRC Strategy & Workflow
+To ensure a structured approach to risk management, I developed this lifecycle diagram. It illustrates the progression from identifying organizational assets to final compliance reporting, aligning with the NIST Cybersecurity Framework.
+
+![GRC Risk Workflow Diagram](GRC_Workflow_Diagram.png)
+
+### Methodology Breakdown
+* **Asset & Threat Identification:** Defining the scope of protection and potential adversaries.
+* **Risk Assessment:** Calculating severity using the $Risk = Likelihood \times Impact$ formula.
+* **Security Controls:** Implementing administrative and technical safeguards (e.g., MFA, encryption).
+* **Reporting:** Documenting findings for stakeholders in the [Risk Register](Risk-Register.md).
