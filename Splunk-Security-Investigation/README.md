@@ -29,4 +29,7 @@ A review of authentication logs was conducted to identify suspicious failed logi
 - Review suspicious IP activity
 
 ## Evidence
-Screenshots included within project folder.
+![Splunk Investigation Screenshot](Splunk_Search_Investigation.png)
+
+## Conclusion
+The investigation successfully utilized Splunk to ingest and query system logs. By identifying 100 internal events, I demonstrated the ability to navigate a SIEM environment, apply time-range filters, and interpret sourcetype data—skills directly transferable to monitoring for unauthorized access and brute force attempts.
