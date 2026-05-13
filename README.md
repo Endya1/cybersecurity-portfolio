@@ -133,10 +133,8 @@ Documented a simulated phishing incident and conducted introductory SIEM log ana
 
 ## Tools
 - Splunk
-- ServiceNow
+- Tryhackme
 - Microsoft 365
-- GitHub
-- Excel Dashboards
 
 ## Additional Learning
 - Python (Foundational)
