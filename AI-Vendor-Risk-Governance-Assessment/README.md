@@ -1,133 +1,60 @@
 # AI Vendor Risk & Governance Assessment
 
 ## Project Overview
-This project demonstrates an AI governance and vendor risk assessment aligned with the NIST AI Risk Management Framework (AI RMF). The assessment evaluates risks associated with a third-party AI healthcare diagnostic system used for patient triage and healthcare support.
+This project demonstrates an AI governance and vendor risk assessment aligned with the **NIST AI Risk Management Framework (AI RMF)**. The assessment evaluates risks associated with a third-party AI healthcare diagnostic system used for patient triage and healthcare support.
 
 The project focuses on:
-- AI governance
-- Vendor risk management
-- Algorithmic bias evaluation
-- Privacy and security risks
-- Governance controls
-- Risk mitigation strategies
+* AI Governance & Policy
+* Third-Party/Vendor Risk Management (TPRM)
+* Algorithmic Bias & Fairness Evaluation
+* Privacy and Security Risk Mitigation
 
----
+## Assessment Scope
+### Target System
+**HealthAI Diagnostics** — A third-party AI-powered healthcare diagnostic assistant used to support patient triage decisions.
 
-# Assessment Scope
+### Assessment Objectives
+* Identify potential AI-related risks (Bias, Hallucinations, Privacy)
+* Evaluate vendor governance and transparency practices
+* Recommend technical and administrative security controls
+* Document mitigation strategies for high-risk findings
 
-## Target System
-HealthAI Diagnostics — A third-party AI-powered healthcare diagnostic assistant used to support patient triage decisions.
-
-## Assessment Objectives
-- Identify potential AI-related risks
-- Evaluate vendor governance practices
-- Assess privacy and bias concerns
-- Recommend governance and security controls
-- Document mitigation strategies
-
----
-
-# Stakeholders
-
-- Patients
-- Doctors and Nurses
-- IT Administrators
-- Security Teams
-- Compliance Officers
-- Healthcare Leadership
-- Third-Party AI Vendor
-
----
-
-# Potential Risks & Harms
-
+## Potential Risks & Harms
 | Risk Area | Potential Harm |
-|---|---|
-| Incorrect Diagnosis | Patient harm due to inaccurate recommendations |
-| Algorithmic Bias | Unequal treatment across demographic groups |
-| Data Privacy | Exposure of protected health information (PHI) |
-| Hallucinations | AI-generated false medical information |
-| Vendor Transparency | Lack of explainability in AI decision-making |
-| Security Risks | Unauthorized access to patient data |
+| :--- | :--- |
+| **Incorrect Diagnosis** | Patient harm due to inaccurate medical recommendations |
+| **Algorithmic Bias** | Unequal treatment across demographic groups (Race, Age, Gender) |
+| **Data Privacy** | Exposure of protected health information (PHI) |
+| **Hallucinations** | AI-generated false or misleading medical information |
+| **Security Risks** | Unauthorized access to sensitive patient datasets |
 
----
-
-# Governance Assessment Areas
-
-The assessment evaluated the following areas:
-
-- Vendor governance practices
-- Human oversight controls
-- AI transparency
-- Security safeguards
-- Bias monitoring
-- Privacy protection
-- Incident response preparedness
-- Compliance alignment
-
----
-
-# Key Findings
-
-## Identified Risks
-- Potential bias in diagnostic recommendations
-- Insufficient transparency regarding training datasets
-- Risk of AI hallucinations affecting patient care
-- Potential privacy exposure involving sensitive healthcare data
-- Limited visibility into vendor security monitoring practices
-
----
-
-# Final Vendor Risk Rating
-
-## HIGH RISK
+## Key Findings & Risk Rating
+**Final Vendor Risk Rating: HIGH RISK**
 
 ### Justification
-The AI system processes sensitive healthcare information and may influence patient care decisions. Risks involving bias, hallucinations, and privacy exposure create elevated governance and compliance concerns requiring strong oversight and human review controls.
+The AI system influences patient care decisions and processes sensitive healthcare data. The lack of transparency regarding training datasets and the potential for algorithmic bias create elevated compliance concerns that require strict human-in-the-loop oversight.
 
----
+## Recommended Governance Controls
+* **Human-in-the-loop (HITL):** Clinical review required for all AI-generated triage decisions.
+* **Bias Monitoring:** Quarterly audits of diagnostic outcomes across demographics.
+* **Access Control:** Multi-factor authentication (MFA) and RBAC for all system users.
+* **Continuous Monitoring:** Periodic vendor reassessments to track model drift.
 
-# Recommended Governance Controls
-
-- Human-in-the-loop (HITL) review for all final medical decisions
-- Multi-factor authentication (MFA) for system access
-- Quarterly vendor risk reassessments
-- Bias and fairness monitoring procedures
-- Audit logging and activity monitoring
-- Data retention and privacy controls
-- Incident response escalation procedures
-- Role-based access controls (RBAC)
-
----
-
-# Files Included
-
+## Files Included
 | File | Description |
-|---|---|
-| Vendor-Risk-Questionnaire.md | AI vendor governance assessment questions |
-| Bias-Impact-Assessment.md | Simulated bias and fairness analysis |
-| Risk-Register-V2.xlsx | Risk register dashboard and mitigation tracking |
-| GRC_Risk_Workflow_Diagram.png | Governance workflow visualization |
+| :--- | :--- |
+| [Vendor-Risk-Questionnaire.md](./Vendor-Risk-Questionnaire.md) | AI-specific audit questions for third-party vendors |
+| [Bias-Impact-Assessment.md](./Bias-Impact-Assessment.md) | Simulated analysis of fairness and algorithmic bias |
+| [Risk_Register_Dashboard.xlsx](../Risk-Assessment-Project/Cybersecurity_Risk_Register.xlsx) | Master Risk Register and mitigation tracking |
+| [GRC_Workflow_Diagram.png](../Risk-Assessment-Project/GRC_Risk_Workflow_Diagram.png) | Visualization of the risk management lifecycle |
 
----
+## Framework Alignment
+* **NIST AI Risk Management Framework (AI RMF)**
+* **NIST Cybersecurity Framework (CSF)**
+* **HIPAA Security Rule** (Technical Safeguards)
 
-# Framework Alignment
-
-This project references concepts from:
-- NIST AI Risk Management Framework (AI RMF)
-- NIST Cybersecurity Framework (CSF)
-- ISO 27001 concepts
-- AI governance and responsible AI principles
-
----
-
-# Skills Demonstrated
-
-- AI Governance
-- Vendor Risk Management
-- Risk Assessment
-- Governance Documentation
-- Security Controls Analysis
-- Compliance Awareness
-- Bias Risk Evaluation
-- Security Reporting
+## Skills Demonstrated
+* Vendor Risk Management (TPRM)
+* AI Policy & Governance
+* Risk Quantification & Mitigation
+* Compliance Reporting
