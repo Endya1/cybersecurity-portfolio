@@ -132,9 +132,13 @@ Documented a simulated phishing incident and conducted introductory SIEM log ana
 - Risk Management
 
 ## Tools
-- Splunk
-- Tryhackme
-- Microsoft 365
+- **Microsoft 365** (Advanced Excel & GRC Dashboards)
+- **ServiceNow** (PDI - GRC & Asset Management)
+- **Splunk** (SIEM Log Analysis & Reporting)
+- **GitHub** (Version Control & Technical Documentation)
+- **TryHackMe** (Hands-on Security Labs)
+- **IBM Granite Playground** (AI Model Testing & Risk Analysis)
+- **IBM AI Explainability 360** (XAI & Bias Audit Research)
 
 ## Additional Learning
 - Python (Foundational)
